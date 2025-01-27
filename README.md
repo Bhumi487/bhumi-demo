@@ -1,3 +1,4 @@
 # bhumi-demo
 This is my first Git Repository.
-Author - Bhumi
+<br>
+Author - Bhumi Kochar
